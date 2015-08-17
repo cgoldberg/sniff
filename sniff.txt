@@ -1,12 +1,12 @@
 \n
-       HOST DETAILS:  ==========\n
+============== HOST:  ==========\n
 \n
            local_ip:  %{local_ip}\n
          local_port:  %{local_port}\n
           remote_ip:  %{remote_ip}\n
         remote_port:  %{remote_port}\n
 \n
- CONNECTION DETAILS:  ==========\n
+======== CONNECTION:  ==========\n
 \n
           http_code:  %{http_code}\n
        http_connect:  %{http_connect}\n
@@ -14,7 +14,7 @@
       num_redirects:  %{num_redirects}\n
        redirect_url:  %{redirect_url}\n
 \n
-       FILE DETAILS:  ==========\n
+============== FILE:  ==========\n
 \n
        content_type:  %{content_type}\n
  filename_effective:  %{filename_effective}\n
@@ -28,7 +28,7 @@
   ssl_verify_result:  %{ssl_verify_result}\n
       url_effective:  %{url_effective}\n
 \n
-     TIME BREAKDOWN:  ==========\n
+==== TIME BREAKDOWN:  ==========\n
 \n
     time_appconnect:  %{time_appconnect}\n
        time_connect:  %{time_connect}\n
