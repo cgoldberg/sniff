@@ -10,7 +10,7 @@ Instructions:
 
   * `alias sniff='curl -w "@/path/to/sniff.txt" -o /dev/null -s '`
 
-* run `sniff` against the given URL:
+* run `sniff` against a URL:
 
   * `sniff https://example.com`
 
