@@ -6,7 +6,7 @@
 
 Instructions:
 
-* add a shell alias for `sniff`:
+* add this shell alias for `sniff`:
 
   * `alias sniff='curl -w "@/path/to/sniff.txt" -o /dev/null -s '`
 
