@@ -18,7 +18,6 @@
 \n
        content_type:  %{content_type}\n
  filename_effective:  %{filename_effective}\n
-     ftp_entry_path:  %{ftp_entry_path}\n
       size_download:  %{size_download}\n
         size_header:  %{size_header}\n
        size_request:  %{size_request}\n
