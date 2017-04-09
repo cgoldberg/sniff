@@ -11,7 +11,6 @@
           http_code:  %{http_code}\n
        http_connect:  %{http_connect}\n
        num_connects:  %{num_connects}\n
-      num_redirects:  %{num_redirects}\n
        redirect_url:  %{redirect_url}\n
 \n
 =============  FILE:  ==========\n
