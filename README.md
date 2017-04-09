@@ -1,12 +1,12 @@
 # sniff
 
-#### A friendly formatter for curl requests to help with debugging.
+#### Friendly formatter for curl requests to help with debugging.
 
 ----
 
 Instructions:
 
-* add this shell alias for `sniff`:
+* add a shell alias for `sniff`:
 
   * `alias sniff='curl -w "@/path/to/sniff.txt" -o /dev/null -s '`
 
