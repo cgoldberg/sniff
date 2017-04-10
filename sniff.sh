@@ -5,3 +5,4 @@ if [[ $# -lt 1 ]]; then
         exit 1
 else
     curl -sS --compressed -o /dev/null -w "@sniff.txt" "$1"
+fi
