@@ -8,7 +8,7 @@ Instructions:
 
 * add a shell alias for `sniff`:
 
-  * `alias sniff='curl -w "@/path/to/sniff.txt" -o /dev/null -s '`
+  * `alias sniff='curl -sS --compressed -o /dev/null -w "@sniff.txt" "$1"`
 
 * run `sniff` against a URL:
 
